@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:li-shuchen/li-shuchen.github.io.git
+	branch = master
