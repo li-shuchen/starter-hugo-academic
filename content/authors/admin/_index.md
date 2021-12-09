@@ -54,4 +54,4 @@ email: "lishuchen@pku.edu.cn"
 highlight_name: true
 ---
  
-I am a senior undergraduate in Turing Class, Peking University. My research interests lie in theoretical Computer Science, especially Boolean function analysis, complexity theory, and their connection with mathematics. I'm currently working with [Prof. Xiaoming Sun](https://theory.ict.ac.cn/sunxiaoming/) and [Prof. Qian Li](https://theory.ict.ac.cn/en/members/liqian/) on Boolean function analysis. 
+I am a senior undergraduate in Turing Class, Peking University. My research interests lie in theoretical computer science, especially Boolean function analysis, complexity theory, and their connection with mathematics. I'm currently working with [Prof. Xiaoming Sun](https://theory.ict.ac.cn/sunxiaoming/) and [Prof. Qian Li](https://theory.ict.ac.cn/en/members/liqian/) on Boolean function analysis. 
