@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "MusiCTM_Paper.pdf"
+url_pdf: "MusiCTM.pdf"
 url_code:
 url_dataset:
 url_poster:
